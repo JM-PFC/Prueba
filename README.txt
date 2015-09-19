@@ -1,3 +1,4 @@
 Bienvenido a Git
 
-Vamos aempezar hacer pruebas
+Vamos a empezar hacer pruebas.
+(Había un error en el contenido)
