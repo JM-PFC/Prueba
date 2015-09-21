@@ -1,5 +1,3 @@
 Bienvenido a Git
 
-Vamos a empezar hacer pruebas.
-(Había un error en el contenido)
- 
+Vamos a empezar hacer pruebas con el repositorio repositorio remoto.
